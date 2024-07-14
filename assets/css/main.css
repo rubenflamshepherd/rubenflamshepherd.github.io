@@ -1,0 +1,38 @@
+/* assets/css/main.css */
+.vertical-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-icon {
+    font-size: 48px; /* Adjust size as needed */
+}
+
+.vertical-center a {
+    margin-right: 10px; /* Adjust the margin as needed */
+    margin-top: 10px; /* Adjust the margin as needed */
+}
+
+.vertical-center a:last-child {
+    margin-bottom: 0; /* Remove margin from the last item */
+}
+
+.about-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    padding: 20px; /* Add padding as needed */
+  }
+  
+  .about-image {
+    max-width: 200px; /* Adjust the size as needed */
+    margin-right: 20px; /* Adjust the spacing between the image and text */
+  }
+  
+  .about-text {
+    max-width: 600px; /* Adjust as needed */
+    text-align: center;
+
+  }
