@@ -1,7 +1,7 @@
 # Setup
 title:               Ruben Flam-Shepherd III
 tagline:             'A Jekyll theme'
-description:         'My personal blog'
+description:         'This is my personal blog. I write about sports analytics and data engineering'
 url:                 https://rubenflamshepherd.github.io/
 baseurl:             ''
 paginate:            5
