@@ -5,7 +5,7 @@ title: About
 <div class="about-container">
   <img src="https://storage.googleapis.com/scout_static_images/about_me.jpg" alt="Your image description" class="about-image">
   <div class="about-text">
-    Hey there, I'm Ruben 👋 I'm a data engineer by day and in my free time I'm currently building out <a href="http://www.scouthte.xyz" target="_blank">scout</a> where I visualize different hockey statistics.
+    Hey there, I'm Ruben 👋 I'm a data engineer by day and by night I'm building <a href="http://www.scouthte.xyz" target="_blank">scout</a> where I visualize different hockey statistics.
     <br>
     <br>
     In a past life I was a <a href="https://scholar.google.ca/citations?user=saCL_9gAAAAJ&hl=en" target="_blank">scientist</a>
